@@ -1,0 +1,8 @@
+author: "novacbn"
+name: "lunarface"
+
+repository: "github://novacbn/lunarface"
+version: "0.0.1"
+
+projectBuilds: 
+	"novacbn/lunarface/exports": "lunarface"
